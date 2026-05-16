@@ -15,7 +15,6 @@
 ### 2. 参数调节
 首次使用前需修改以下配置：
 
-```cpp
 char auth[] = "456***";   // Blinker 设备密钥
 char ssid[] = "Xia***";   // WiFi 名称
 char pswd[] = "123***";   // WiFi 密码
@@ -78,7 +77,7 @@ App 重新打开后，需再次触发滑块事件以刷新显示
 参数无需频繁调整
 
 ## 界面示意
-(/docs/app.jpg)
+![界面示意](/docs/app.jpg)
 
 ## 工作流程
 Blinker App
